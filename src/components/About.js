@@ -11,4 +11,4 @@ function About() {
   );
 }
 
-export default About.js;
+export default About;
