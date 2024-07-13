@@ -12,4 +12,4 @@ function Home() {
   );
 }
 
-export default Home.js;
+export default Home;
